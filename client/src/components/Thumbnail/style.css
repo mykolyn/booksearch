@@ -1,0 +1,9 @@
+div.thumbnail {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100px;
+    height:150px;
+    margin-top: 25px;
+    padding-top: 100%;
+  }
